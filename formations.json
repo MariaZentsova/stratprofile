@@ -1,0 +1,4734 @@
+﻿[
+  {
+    "Group": "Hordaland Group",
+    "Subgroup": "Sand Package",
+    "Formation": "Upper",
+    "Member": "",
+    "Unit": ""
+  },
+  {
+    "Group": "Hordaland Group",
+    "Subgroup": "",
+    "Formation": "Lewis Fan Envelope Formation",
+    "Member": "Lobe Member 3",
+    "Unit": ""
+  },
+  {
+    "Group": "Hordaland Group",
+    "Subgroup": "",
+    "Formation": "Lewis Fan Envelope Formation",
+    "Member": "Lobe Member 4",
+    "Unit": ""
+  },
+  {
+    "Group": "Hordaland Group",
+    "Subgroup": "",
+    "Formation": "Lillebaelt Formation",
+    "Member": "",
+    "Unit": ""
+  },
+  {
+    "Group": "Hordaland Group",
+    "Subgroup": "",
+    "Formation": "Lower Eocene Sand Formation",
+    "Member": "",
+    "Unit": ""
+  },
+  {
+    "Group": "Hordaland Group",
+    "Subgroup": "",
+    "Formation": "Lower Eocene Sand Formation Equivalalent",
+    "Member": "",
+    "Unit": ""
+  },
+  {
+    "Group": "Hordaland Group",
+    "Subgroup": "",
+    "Formation": "Lower Eocene Shale Formation",
+    "Member": "",
+    "Unit": ""
+  },
+  {
+    "Group": "Hordaland Group",
+    "Subgroup": "",
+    "Formation": "Lower Eocene-Upper Palaeocene Formation",
+    "Member": "",
+    "Unit": ""
+  },
+  {
+    "Group": "Hordaland Group",
+    "Subgroup": "",
+    "Formation": "Lower Eocene-Upper Palaeocene Formation",
+    "Member": "",
+    "Unit": ""
+  },
+  {
+    "Group": "Hordaland Group",
+    "Subgroup": "",
+    "Formation": "Middle Eocene Bright Event Formation",
+    "Member": "",
+    "Unit": ""
+  },
+  {
+    "Group": "Hordaland Group",
+    "Subgroup": "",
+    "Formation": "Middle Eocene Sand Formation",
+    "Member": "",
+    "Unit": ""
+  },
+  {
+    "Group": "Hordaland Group",
+    "Subgroup": "",
+    "Formation": "Middle Oligocene Sand Formation",
+    "Member": "",
+    "Unit": ""
+  },
+  {
+    "Group": "Hordaland Group",
+    "Subgroup": "",
+    "Formation": "Middle-Upper Eocene Sand Formation",
+    "Member": "",
+    "Unit": ""
+  },
+  {
+    "Group": "Hordaland Group",
+    "Subgroup": "",
+    "Formation": "North Sea Clay Formation",
+    "Member": "Lower",
+    "Unit": ""
+  },
+  {
+    "Group": "Hordaland Group",
+    "Subgroup": "",
+    "Formation": "Oligocene Sand Formation",
+    "Member": "",
+    "Unit": ""
+  },
+  {
+    "Group": "Hordaland Group",
+    "Subgroup": "",
+    "Formation": "Rosnaes Formation Equivalent",
+    "Member": "",
+    "Unit": ""
+  },
+  {
+    "Group": "Hordaland Group",
+    "Subgroup": "",
+    "Formation": "Scaup Formation",
+    "Member": "",
+    "Unit": ""
+  },
+  {
+    "Group": "Hordaland Group",
+    "Subgroup": "",
+    "Formation": "Shale Formation",
+    "Member": "Lower",
+    "Unit": ""
+  },
+  {
+    "Group": "Hordaland Group",
+    "Subgroup": "",
+    "Formation": "Shale Formation",
+    "Member": "Middle",
+    "Unit": ""
+  },
+  {
+    "Group": "Hordaland Group",
+    "Subgroup": "",
+    "Formation": "Strachan Fan Formation",
+    "Member": "",
+    "Unit": ""
+  },
+  {
+    "Group": "Hordaland Group",
+    "Subgroup": "",
+    "Formation": "Tay Formation",
+    "Member": "Brimmond Sand Member",
+    "Unit": ""
+  },
+  {
+    "Group": "Hordaland Group",
+    "Subgroup": "",
+    "Formation": "Tay Formation",
+    "Member": "Brimmond Sand Member",
+    "Unit": "Upper"
+  },
+  {
+    "Group": "Hordaland Group",
+    "Subgroup": "",
+    "Formation": "Tay Formation",
+    "Member": "Brimmond Shale Member",
+    "Unit": "Middle"
+  },
+  {
+    "Group": "Hordaland Group",
+    "Subgroup": "",
+    "Formation": "Tay Formation",
+    "Member": "Sand Unit",
+    "Unit": "Lower"
+  },
+  {
+    "Group": "Hordaland Group",
+    "Subgroup": "",
+    "Formation": "Tay Formation",
+    "Member": "Sand Unit",
+    "Unit": "Middle"
+  },
+  {
+    "Group": "Hordaland Group",
+    "Subgroup": "",
+    "Formation": "Tay Formation",
+    "Member": "Sand Unit",
+    "Unit": "Upper"
+  },
+  {
+    "Group": "Hordaland Group",
+    "Subgroup": "",
+    "Formation": "Tay Formation",
+    "Member": "Shale Unit",
+    "Unit": "Upper"
+  },
+  {
+    "Group": "Hordaland Group",
+    "Subgroup": "",
+    "Formation": "Tay Formation",
+    "Member": "Tay Member Equivalent",
+    "Unit": ""
+  },
+  {
+    "Group": "Hordaland Group",
+    "Subgroup": "",
+    "Formation": "",
+    "Member": "Lower Eocene Green Shale Member",
+    "Unit": ""
+  },
+  {
+    "Group": "Hordaland Group",
+    "Subgroup": "",
+    "Formation": "",
+    "Member": "Red Mudstone Member Equivalent",
+    "Unit": ""
+  },
+  {
+    "Group": "Hordaland Group",
+    "Subgroup": "",
+    "Formation": "",
+    "Member": "",
+    "Unit": "Clay Unit"
+  },
+  {
+    "Group": "Hordaland Group",
+    "Subgroup": "",
+    "Formation": "",
+    "Member": "",
+    "Unit": "Clay Unit"
+  },
+  {
+    "Group": "Hordaland Group",
+    "Subgroup": "",
+    "Formation": "",
+    "Member": "",
+    "Unit": "Glauconitic Unit"
+  },
+  {
+    "Group": "Hordaland Group",
+    "Subgroup": "",
+    "Formation": "",
+    "Member": "",
+    "Unit": "Red Mudstone Unit"
+  },
+  {
+    "Group": "Hordaland Group",
+    "Subgroup": "",
+    "Formation": "",
+    "Member": "",
+    "Unit": "Sand Unit"
+  },
+  {
+    "Group": "Hordaland Group",
+    "Subgroup": "",
+    "Formation": "",
+    "Member": "",
+    "Unit": "Sand Unit"
+  },
+  {
+    "Group": "Hordaland Group",
+    "Subgroup": "",
+    "Formation": "",
+    "Member": "",
+    "Unit": "Shale Unit"
+  },
+  {
+    "Group": "Hordaland Group",
+    "Subgroup": "",
+    "Formation": "",
+    "Member": "",
+    "Unit": "Siltstone Unit"
+  },
+  {
+    "Group": "Hordaland Group",
+    "Subgroup": "",
+    "Formation": "Upper Eocene Claystone Formation",
+    "Member": "",
+    "Unit": ""
+  },
+  {
+    "Group": "Hordaland Group",
+    "Subgroup": "",
+    "Formation": "Upper Eocene Sand Formation",
+    "Member": "",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "Middle Jurassic Volcanic Series",
+    "Formation": "",
+    "Member": "",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Angus Formation",
+    "Member": "Angus Shale Member",
+    "Unit": "Lower"
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Angus Formation",
+    "Member": "Angus Shale Member",
+    "Unit": "Lower"
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Angus Formation",
+    "Member": "Angus Shale Member",
+    "Unit": "Middle"
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Angus Formation",
+    "Member": "Angus Shale Member",
+    "Unit": "Upper"
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Angus Formation",
+    "Member": "Bruce A Sand",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Angus Formation",
+    "Member": "Bruce Member",
+    "Unit": "Upper"
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Angus Formation",
+    "Member": "Bruce Sand",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Angus Formation",
+    "Member": "Bruce Shale",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Angus Formation",
+    "Member": "Sand Member",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Angus Formation",
+    "Member": "Shale Member",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Angus Formation",
+    "Member": "Siltstone Member",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Balintore Formation",
+    "Member": "Ardassie Limestone Member",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Balintore Formation",
+    "Member": "Port-on-Righ Siltstone Member",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Beatrice Formation",
+    "Member": "A Sand Member",
+    "Unit": "Lower"
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Beatrice Formation",
+    "Member": "A Sand Member",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Beatrice Formation",
+    "Member": "A Sand Member",
+    "Unit": "Upper"
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Beatrice Formation",
+    "Member": "B Sand Member",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Beatrice Formation",
+    "Member": "Shale Member",
+    "Unit": "Middle"
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Brae Formation",
+    "Member": "Bracken Layer 1",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Brae Formation",
+    "Member": "Bracken Layer 2",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Brae Formation",
+    "Member": "Bracken Layer 3",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Brae Formation",
+    "Member": "Brae Conglomerate Member",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Brae Formation",
+    "Member": "Clastic Member",
+    "Unit": "Lower"
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Brae Formation",
+    "Member": "Clastic Member",
+    "Unit": "Upper"
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Brae Formation",
+    "Member": "Miller Claystone Member",
+    "Unit": "Lower"
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Brae Formation",
+    "Member": "Miller Member",
+    "Unit": "H"
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Brae Formation",
+    "Member": "Miller Member",
+    "Unit": "J"
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Brae Formation",
+    "Member": "Miller Member",
+    "Unit": "K"
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Brae Formation",
+    "Member": "Miller Member",
+    "Unit": "L"
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Brae Formation",
+    "Member": "Miller Member",
+    "Unit": "M"
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Brae Formation",
+    "Member": "Miller Member",
+    "Unit": "N"
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Brae Formation",
+    "Member": "Miller Member",
+    "Unit": "P"
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Brae Formation",
+    "Member": "Miller Sand Member",
+    "Unit": "Upper"
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Brae Formation",
+    "Member": "NBSEQ Member",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Brae Formation",
+    "Member": "Shale Member",
+    "Unit": "Middle"
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Brae Formation",
+    "Member": "Shale Member",
+    "Unit": "Upper"
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Brae Formation",
+    "Member": "Tiffany Conglomerate Member",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Brae Formation",
+    "Member": "Top Mudstone Unit",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Brae Formation",
+    "Member": "Unit 2B",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Brae Formation",
+    "Member": "Unit 2D",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Brae Formation",
+    "Member": "Unit A",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Brae Formation",
+    "Member": "Unit B",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Brae Formation",
+    "Member": "Unit C",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Brae Formation",
+    "Member": "Unit D",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Brae Formation",
+    "Member": "Unit J",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Brae Formation",
+    "Member": "Unit K",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Brae Formation",
+    "Member": "Unit L",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Brae Formation",
+    "Member": "Unit M",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Brae Formation",
+    "Member": "Zone A",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Brae Formation",
+    "Member": "Zone C",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Brae Formation",
+    "Member": "Zone D1",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Brae Formation",
+    "Member": "Zone D2",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Brae Formation",
+    "Member": "Zone E Sand",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Brae Formation",
+    "Member": "Zone E Shale",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Brae Formation",
+    "Member": "Zone F1",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Brae Formation",
+    "Member": "Zone F2",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Brae Formation Equivalent",
+    "Member": "K14 Reservoir",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Brae Formation Equivalent",
+    "Member": "K18 Reservoir",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Brora Arenaceous Formation",
+    "Member": "",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Brora Argillaceous Formation",
+    "Member": "A Sand Member + B Sand Member",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Brora Argillaceous Formation",
+    "Member": "",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Brora Argillaceous Formation Equivalent",
+    "Member": "",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Fiddich Sandstone Formation",
+    "Member": "",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Fife Sandstone Formation",
+    "Member": "Fife Silt Member",
+    "Unit": "Middle"
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Fife Sandstone Formation",
+    "Member": "Zone A",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Fife Sandstone Formation",
+    "Member": "Zone B",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Fife Sandstone Formation",
+    "Member": "Zone C",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Fife Sandstone Formation",
+    "Member": "Zone D3",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Fife Sandstone Formation",
+    "Member": "Zone DII",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Fife Sandstone Formation",
+    "Member": "Zone EII",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Fife Sandstone Formation",
+    "Member": "Zone F",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Fife Sandstone Formation",
+    "Member": "Zone G",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Fife Sandstone Formation",
+    "Member": "Zone H",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Formation P",
+    "Member": "",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Formation S",
+    "Member": "",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Formation W",
+    "Member": "",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Franklin Sand Formation A1",
+    "Member": "",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Franklin Sand Formation A2",
+    "Member": "",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Franklin Sand Formation A3",
+    "Member": "",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Franklin Sand Formation B1",
+    "Member": "",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Franklin Sand Formation B2",
+    "Member": "",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Franklin Sand Formation C1",
+    "Member": "",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Fulmar Formation",
+    "Member": "A Sand Member",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Fulmar Formation",
+    "Member": "B Sand Member",
+    "Unit": "Lower"
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Fulmar Formation",
+    "Member": "B Sand Member",
+    "Unit": "Upper"
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Fulmar Formation",
+    "Member": "C Sand Member",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Fulmar Formation",
+    "Member": "Middle",
+    "Unit": "Sandstone Member"
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Fulmar Formation",
+    "Member": "Unit BL1",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Fulmar Formation Equivalent",
+    "Member": "Lower",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Fulmar Formation Equivalent",
+    "Member": "Middle",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Fulmar Formation Equivalent",
+    "Member": "Upper",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Heather Formation",
+    "Member": "Angus Member",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Heather Formation",
+    "Member": "Basal Sand Member",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Heather Formation",
+    "Member": "Bb Member",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Heather Formation",
+    "Member": "Beinn Member",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Heather Formation",
+    "Member": "Beryl Sandstone Member",
+    "Unit": "Upper"
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Heather Formation",
+    "Member": "C1 Member",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Heather Formation",
+    "Member": "C2 Member",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Heather Formation",
+    "Member": "Ca Member",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Heather Formation",
+    "Member": "Clay Member",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Heather Formation",
+    "Member": "Coal Shale Member",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Heather Formation",
+    "Member": "Coal Shale Member 3",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Heather Formation",
+    "Member": "Freshney Sandstone Member Equivalent",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Heather Formation",
+    "Member": "Fulmar Sandstone Member",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Heather Formation",
+    "Member": "I",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Heather Formation",
+    "Member": "IA",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Heather Formation",
+    "Member": "IB",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Heather Formation",
+    "Member": "J42 Unit",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Heather Formation",
+    "Member": "J44 Unit",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Heather Formation",
+    "Member": "J45 Unit",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Heather Formation",
+    "Member": "J46 Unit",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Heather Formation",
+    "Member": "J54 Unit",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Heather Formation",
+    "Member": "J56 Unit",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Heather Formation",
+    "Member": "Jackdaw Sandstone Member",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Heather Formation",
+    "Member": "Jacqui Sandstone Member",
+    "Unit": "Lower"
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Heather Formation",
+    "Member": "Jacqui Sandstone Member",
+    "Unit": "Upper"
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Heather Formation",
+    "Member": "Rhaxella Sandstone Unit",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Heather Formation",
+    "Member": "Sand A Member",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Heather Formation",
+    "Member": "Sand B Member",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Heather Formation",
+    "Member": "Sandstone Member",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Heather Formation",
+    "Member": "Sandstone Member 1A",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Heather Formation",
+    "Member": "Sandstone Member 1B",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Heather Formation",
+    "Member": "Sandstone Member 2",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Heather Formation",
+    "Member": "Sandstone Member 3",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Heather Formation",
+    "Member": "Shale Member",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Heather Formation",
+    "Member": "Siltstone Member",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Heather Formation Equivalent",
+    "Member": "",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Kimmeridge Clay Formation",
+    "Member": "15/16-6 Sand Member",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Kimmeridge Clay Formation",
+    "Member": "A Member",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Kimmeridge Clay Formation",
+    "Member": "Avon Shale Member",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Kimmeridge Clay Formation",
+    "Member": "B Member",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Kimmeridge Clay Formation",
+    "Member": "Basal Sandstone Member",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Kimmeridge Clay Formation",
+    "Member": "Base Sand Unit",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Kimmeridge Clay Formation",
+    "Member": "Black Shale Member",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Kimmeridge Clay Formation",
+    "Member": "Brae Sand Member",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Kimmeridge Clay Formation",
+    "Member": "Buzzard 1 Member",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Kimmeridge Clay Formation",
+    "Member": "Buzzard 2 Member",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Kimmeridge Clay Formation",
+    "Member": "Buzzard 3 Member",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Kimmeridge Clay Formation",
+    "Member": "Buzzard 4 Member",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Kimmeridge Clay Formation",
+    "Member": "Buzzard Sequence Equivalent",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Kimmeridge Clay Formation",
+    "Member": "C Member",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Kimmeridge Clay Formation",
+    "Member": "Carbonate Member",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Kimmeridge Clay Formation",
+    "Member": "Claymore Member",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Kimmeridge Clay Formation",
+    "Member": "Claymore Member 1",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Kimmeridge Clay Formation",
+    "Member": "Claymore Member 2",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Kimmeridge Clay Formation",
+    "Member": "Claymore Sand Member",
+    "Unit": "Lower"
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Kimmeridge Clay Formation",
+    "Member": "Claymore Sand Member",
+    "Unit": "Upper"
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Kimmeridge Clay Formation",
+    "Member": "Claymore Sandstone Equivalent",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Kimmeridge Clay Formation",
+    "Member": "Claymore Sandstone Member",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Kimmeridge Clay Formation",
+    "Member": "Claystone + Sandstone Member",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Kimmeridge Clay Formation",
+    "Member": "Cold Shale Member",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Kimmeridge Clay Formation",
+    "Member": "Conglomerate Unit",
+    "Unit": "Lower"
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Kimmeridge Clay Formation",
+    "Member": "Conglomerate Unit",
+    "Unit": "Middle"
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Kimmeridge Clay Formation",
+    "Member": "Conglomerate Unit",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Kimmeridge Clay Formation",
+    "Member": "Conglomerate Unit",
+    "Unit": "Upper"
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Kimmeridge Clay Formation",
+    "Member": "Cool Shale Member",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Kimmeridge Clay Formation",
+    "Member": "East Thelma I Member",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Kimmeridge Clay Formation",
+    "Member": "East Thelma II + III Member",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Kimmeridge Clay Formation",
+    "Member": "East Thelma IV + V Member",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Kimmeridge Clay Formation",
+    "Member": "Ettrick Sand Member",
+    "Unit": "Lower"
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Kimmeridge Clay Formation",
+    "Member": "Ettrick Sand Member",
+    "Unit": "Lower + Middle"
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Kimmeridge Clay Formation",
+    "Member": "Ettrick Sand Member",
+    "Unit": "Middle"
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Kimmeridge Clay Formation",
+    "Member": "Ettrick Sand Member",
+    "Unit": "Upper"
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Kimmeridge Clay Formation",
+    "Member": "Ettrick Sandstone Equivalent",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Kimmeridge Clay Formation",
+    "Member": "Ettrick Sandstone Member",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Kimmeridge Clay Formation",
+    "Member": "Ettrick Silt Unit",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Kimmeridge Clay Formation",
+    "Member": "Ettrick Siltstone Equivalent",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Kimmeridge Clay Formation",
+    "Member": "Fiona Sandstone Member",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Kimmeridge Clay Formation",
+    "Member": "Fulmar Member",
+    "Unit": "Middle"
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Kimmeridge Clay Formation",
+    "Member": "Fulmar Member",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Kimmeridge Clay Formation",
+    "Member": "Galley Member",
+    "Unit": "Lower"
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Kimmeridge Clay Formation",
+    "Member": "Galley Sand Member",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Kimmeridge Clay Formation",
+    "Member": "Galley Sand Member",
+    "Unit": "Upper"
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Kimmeridge Clay Formation",
+    "Member": "Helmsdale Boulder Beds Equivalent",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Kimmeridge Clay Formation",
+    "Member": "High Gamma Ray Sand Member",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Kimmeridge Clay Formation",
+    "Member": "Hot Lens Equivalent",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Kimmeridge Clay Formation",
+    "Member": "Hot Shale and Sand Member",
+    "Unit": "Lower"
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Kimmeridge Clay Formation",
+    "Member": "Hot Shale Hydrocarbon Bearing Member",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Kimmeridge Clay Formation",
+    "Member": "Inter Reservoir Shale Member",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Kimmeridge Clay Formation",
+    "Member": "J62 Member",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Kimmeridge Clay Formation",
+    "Member": "J64 Member",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Kimmeridge Clay Formation",
+    "Member": "J64A Sand Member",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Kimmeridge Clay Formation",
+    "Member": "J64B Sand Member",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Kimmeridge Clay Formation",
+    "Member": "J66 Member",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Kimmeridge Clay Formation",
+    "Member": "J66A Member",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Kimmeridge Clay Formation",
+    "Member": "J66B Member",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Kimmeridge Clay Formation",
+    "Member": "J66C Member",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Kimmeridge Clay Formation",
+    "Member": "J71 Member",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Kimmeridge Clay Formation",
+    "Member": "J72 Member",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Kimmeridge Clay Formation",
+    "Member": "J73 Member",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Kimmeridge Clay Formation",
+    "Member": "J73A Member",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Kimmeridge Clay Formation",
+    "Member": "J73B Member",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Kimmeridge Clay Formation",
+    "Member": "J74 Member",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Kimmeridge Clay Formation",
+    "Member": "J76 Member",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Kimmeridge Clay Formation",
+    "Member": "Jurassic Massive Sandstone Member",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Kimmeridge Clay Formation",
+    "Member": "Laver Member",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Kimmeridge Clay Formation",
+    "Member": "Leen Member",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Kimmeridge Clay Formation",
+    "Member": "LK 60 Member",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Kimmeridge Clay Formation",
+    "Member": "LK 80 Member",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Kimmeridge Clay Formation",
+    "Member": "LK 90 Member",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Kimmeridge Clay Formation",
+    "Member": "Lower",
+    "Unit": "Sand Member"
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Kimmeridge Clay Formation",
+    "Member": "Lower Kimmeridg/Oxfordian Sand Member",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Kimmeridge Clay Formation",
+    "Member": "Lower Reservoir",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Kimmeridge Clay Formation",
+    "Member": "Magnus Unit A",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Kimmeridge Clay Formation",
+    "Member": "Magnus Unit B",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Kimmeridge Clay Formation",
+    "Member": "Magnus Unit C",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Kimmeridge Clay Formation",
+    "Member": "Magnus Unit E",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Kimmeridge Clay Formation",
+    "Member": "Magnus Unit F",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Kimmeridge Clay Formation",
+    "Member": "Magnus Unit G",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Kimmeridge Clay Formation",
+    "Member": "Mandal Member",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Kimmeridge Clay Formation",
+    "Member": "Micaceous Sand Member",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Kimmeridge Clay Formation",
+    "Member": "Peterhead Sandstone Member Equivalent",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Kimmeridge Clay Formation",
+    "Member": "Pibroch Member",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Kimmeridge Clay Formation",
+    "Member": "Piper Sand Member Equivalent",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Kimmeridge Clay Formation",
+    "Member": "Preconglomerate Member",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Kimmeridge Clay Formation",
+    "Member": "Remus Member",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Kimmeridge Clay Formation",
+    "Member": "Romulus Member",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Kimmeridge Clay Formation",
+    "Member": "Ryazanian Sand Equivalent",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Kimmeridge Clay Formation",
+    "Member": "Ryazanian Sand Member",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Kimmeridge Clay Formation",
+    "Member": "Ryazanian Shale Member",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Kimmeridge Clay Formation",
+    "Member": "Ryton Member",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Kimmeridge Clay Formation",
+    "Member": "Sand Member",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Kimmeridge Clay Formation",
+    "Member": "Sand Member",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Kimmeridge Clay Formation",
+    "Member": "Sand Member",
+    "Unit": "Upper"
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Kimmeridge Clay Formation",
+    "Member": "Sandstone Member 1",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Kimmeridge Clay Formation",
+    "Member": "Sandstone Member 2",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Kimmeridge Clay Formation",
+    "Member": "Sandstone Shale Member",
+    "Unit": "Middle"
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Kimmeridge Clay Formation",
+    "Member": "Sequence LJ4",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Kimmeridge Clay Formation",
+    "Member": "Sequence LJ5",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Kimmeridge Clay Formation",
+    "Member": "Sequence LJ6",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Kimmeridge Clay Formation",
+    "Member": "Shale Member",
+    "Unit": "Lower"
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Kimmeridge Clay Formation",
+    "Member": "Shale Member",
+    "Unit": "Middle"
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Kimmeridge Clay Formation",
+    "Member": "Shale Member",
+    "Unit": "Upper"
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Kimmeridge Clay Formation",
+    "Member": "Shale Member + Sand Member",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Kimmeridge Clay Formation",
+    "Member": "Shale Member + Sandstone Member",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Kimmeridge Clay Formation",
+    "Member": "Siltstone Member",
+    "Unit": "Middle"
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Kimmeridge Clay Formation",
+    "Member": "Siltstone Member",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Kimmeridge Clay Formation",
+    "Member": "Slow Shale Member",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Kimmeridge Clay Formation",
+    "Member": "Spiculitic Sandstone Member",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Kimmeridge Clay Formation",
+    "Member": "Supra Galley Sandstone Member",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Kimmeridge Clay Formation",
+    "Member": "Swale Member",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Kimmeridge Clay Formation",
+    "Member": "Trent Member",
+    "Unit": "Sandstone Unit"
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Kimmeridge Clay Formation",
+    "Member": "Trent Member",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Kimmeridge Clay Formation",
+    "Member": "Upper Jurassic Clastic Member",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Kimmeridge Clay Formation",
+    "Member": "Upper Jurassic Sandstone Member",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Kimmeridge Clay Formation",
+    "Member": "Upper Kimmeridgian Sandstone Member",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Kimmeridge Clay Formation",
+    "Member": "Upper Reservoir",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Kimmeridge Clay Formation",
+    "Member": "Volgian Sand Member",
+    "Unit": "Lower"
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Kimmeridge Clay Formation",
+    "Member": "Volgian Sand Member",
+    "Unit": "Middle"
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Kimmeridge Clay Formation",
+    "Member": "Volgian Sand Member",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Kimmeridge Clay Formation",
+    "Member": "Volgian Sand Member",
+    "Unit": "Upper"
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Kimmeridge Clay Formation",
+    "Member": "Volgian Shale Member",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Kimmeridge Clay Formation",
+    "Member": "Volgian/Kimmeridgian Sand Member",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Kimmeridge Clay Formation",
+    "Member": "Warm Shale Member",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Kimmeridge Clay Formation",
+    "Member": "Warm Shale Unit",
+    "Unit": "Lower"
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Kimmeridge Clay Formation",
+    "Member": "Warm Shale Unit",
+    "Unit": "Upper"
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Kimmeridge Clay Formation",
+    "Member": "Wharfe Member",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Kimmeridge Clay Formation",
+    "Member": "White Zone Member",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Kimmeridge Clay Formation Equivalent",
+    "Member": "",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Malm Formation",
+    "Member": "",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Mandal Formation",
+    "Member": "",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Middle Jurassic Massive Sandstone Formation",
+    "Member": "",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Middle Jurassic Shale Formation",
+    "Member": "",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Organic Shale Formation",
+    "Member": "",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Piper Formation",
+    "Member": "Basal Shale Member",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Piper Formation",
+    "Member": "Coaly Unit",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Piper Formation",
+    "Member": "Delta B (Piper) Member",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Piper Formation",
+    "Member": "Delta C (Piper) Member",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Piper Formation",
+    "Member": "Delta D (Piper) Member",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Piper Formation",
+    "Member": "Hot Sand Unit I",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Piper Formation",
+    "Member": "Hot Sand Unit III",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Piper Formation",
+    "Member": "Intra-Scott Shale Member",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Piper Formation",
+    "Member": "KPT Member",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Piper Formation",
+    "Member": "Lower",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Piper Formation",
+    "Member": "Marine Unit",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Piper Formation",
+    "Member": "Paralic Unit",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Piper Formation",
+    "Member": "Sand Member B",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Piper Formation",
+    "Member": "Sand Member C",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Piper Formation",
+    "Member": "Sand Member D",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Piper Formation",
+    "Member": "Sand Member E",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Piper Formation",
+    "Member": "Sand Member F1",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Piper Formation",
+    "Member": "Sand Member F2",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Piper Formation",
+    "Member": "Sand Member G1",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Piper Formation",
+    "Member": "Sand Member G2",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Piper Formation",
+    "Member": "Sand Member H",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Piper Formation",
+    "Member": "Scott Sandstone Unit",
+    "Unit": "Lower"
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Piper Formation",
+    "Member": "Scott Sandstone Unit",
+    "Unit": "Upper"
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Piper Formation",
+    "Member": "Sgiath Sand Member",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Piper Formation",
+    "Member": "Shale Member B",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Piper Formation",
+    "Member": "Shale Member D",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Piper Formation",
+    "Member": "Shale Member E",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Piper Formation",
+    "Member": "Silt Member",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Piper Formation",
+    "Member": "Six Sand D Member",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Piper Formation",
+    "Member": "Six Sand Member",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Piper Formation",
+    "Member": "Tartan Sand Unit",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Piper Formation",
+    "Member": "Unit 1",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Piper Formation",
+    "Member": "Unit 2A",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Piper Formation",
+    "Member": "Unit 2B",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Piper Formation",
+    "Member": "Unit 4",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Piper Formation",
+    "Member": "Upper",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Piper Formation",
+    "Member": "White Zone Shale Member",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Piper Shale Formation",
+    "Member": "",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Puffin Formation",
+    "Member": "",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Rona Sandstone Formation",
+    "Member": "Siltstone Member",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Sgiath Formation",
+    "Member": "Basal Sandstone Member",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Sgiath Formation",
+    "Member": "Intra Main Shale Member",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Sgiath Formation",
+    "Member": "J Sand",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Sgiath Formation",
+    "Member": "Marine Unit",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Sgiath Formation",
+    "Member": "Paralic Unit",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Sgiath Formation",
+    "Member": "Sand Member",
+    "Unit": "Lower"
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Sgiath Formation",
+    "Member": "Sand Unit",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Sgiath Formation",
+    "Member": "Sandstone Member",
+    "Unit": "Lower"
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Sgiath Formation",
+    "Member": "Sandstone Member",
+    "Unit": "Upper"
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Sgiath Formation",
+    "Member": "Sgiath Coaly Unit",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Sgiath Formation",
+    "Member": "Sgiath Member",
+    "Unit": "Lower"
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Sgiath Formation",
+    "Member": "Sgiath Member",
+    "Unit": "Upper"
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Sgiath Formation",
+    "Member": "Sgiath Sand Member L",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Sgiath Formation",
+    "Member": "Sgiath Sand Member M2",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Sgiath Formation",
+    "Member": "Sgiath Shale Member M",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Sgiath Formation",
+    "Member": "Shale Member",
+    "Unit": "Lower"
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Sgiath Formation",
+    "Member": "Shale Unit",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Shale Formation",
+    "Member": "D Shale",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Shale Formation",
+    "Member": "E Shale",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Supra Piper Formation",
+    "Member": "",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "",
+    "Member": "Sand Member + Shale Member",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "",
+    "Member": "",
+    "Unit": "Rona Sand Unit"
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "",
+    "Member": "",
+    "Unit": "Upper Jurassic Basal Unit"
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "",
+    "Member": "",
+    "Unit": "Upper Jurassic Shale Unit"
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "",
+    "Member": "",
+    "Unit": "Upper-Middle Jurassic Coal Unit"
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Uppat Formation",
+    "Member": "Alness Spiculite Equivalent",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Uppat Formation",
+    "Member": "Alness Spiculite Member",
+    "Unit": "Lower"
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Uppat Formation",
+    "Member": "Brora Sand Member",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Uppat Formation",
+    "Member": "Brora Sandstone Member",
+    "Unit": "Lower"
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Uppat Formation",
+    "Member": "Brora Sandstone Member",
+    "Unit": "Upper"
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Uppat Formation",
+    "Member": "Carron Member",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Uppat Formation",
+    "Member": "Intra Oxfordian Event Member",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Uppat Formation",
+    "Member": "Lower Spiculite Member",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Uppat Formation",
+    "Member": "Mudstone Member + Sandstone Member",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Uppat Formation",
+    "Member": "Oxford Sand Member",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Uppat Formation",
+    "Member": "Oxfordian Shale Member",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Uppat Formation",
+    "Member": "Oxfordian Slow Shale Member",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Uppat Formation",
+    "Member": "Oxfordian Spiculite Sandstone Member",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Uppat Formation",
+    "Member": "Ross Sandstone Member",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Uppat Formation",
+    "Member": "Shale Member",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Uppat Formation",
+    "Member": "Spiculite Member",
+    "Unit": "Upper"
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Upper Jurassic Sand Formation",
+    "Member": "",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Upper-Middle Jurassic Sandstone Formation",
+    "Member": "",
+    "Unit": ""
+  },
+  {
+    "Group": "Humber Group",
+    "Subgroup": "",
+    "Formation": "Viking Formation",
+    "Member": "",
+    "Unit": ""
+  },
+  {
+    "Group": "Inferior Oolite Group",
+    "Subgroup": "",
+    "Formation": "Lincolnshire Limestone Formation",
+    "Member": "Gristhorpe Member",
+    "Unit": ""
+  },
+  {
+    "Group": "Injune Creek Group",
+    "Subgroup": "",
+    "Formation": "Walloon Coal Measures Formation",
+    "Member": "",
+    "Unit": ""
+  },
+  {
+    "Group": "Kellaways Beds Group",
+    "Subgroup": "",
+    "Formation": "Kellaways Clay Formation",
+    "Member": "",
+    "Unit": ""
+  },
+  {
+    "Group": "Kellaways Beds Group",
+    "Subgroup": "",
+    "Formation": "Kellaways Rock Formation",
+    "Member": "",
+    "Unit": ""
+  },
+  {
+    "Group": "Kellaways Beds Group",
+    "Subgroup": "",
+    "Formation": "Kellaways Sand Formation",
+    "Member": "",
+    "Unit": ""
+  },
+  {
+    "Group": "Keuper Undifferentiated Group",
+    "Subgroup": "",
+    "Formation": "1st Keuper Salt Formation",
+    "Member": "",
+    "Unit": ""
+  },
+  {
+    "Group": "Keuper Undifferentiated Group",
+    "Subgroup": "",
+    "Formation": "2nd Keuper Salt Formation",
+    "Member": "Shale Member",
+    "Unit": "Lower"
+  },
+  {
+    "Group": "Keuper Undifferentiated Group",
+    "Subgroup": "",
+    "Formation": "2nd Keuper Salt Formation",
+    "Member": "Shale Member",
+    "Unit": "Upper"
+  },
+  {
+    "Group": "Keuper Undifferentiated Group",
+    "Subgroup": "",
+    "Formation": "2nd Keuper Salt Formation",
+    "Member": "",
+    "Unit": ""
+  },
+  {
+    "Group": "Keuper Undifferentiated Group",
+    "Subgroup": "",
+    "Formation": "3rd Keuper Salt Formation",
+    "Member": "",
+    "Unit": ""
+  },
+  {
+    "Group": "Keuper Undifferentiated Group",
+    "Subgroup": "",
+    "Formation": "Keuper Green Marls Formation",
+    "Member": "",
+    "Unit": ""
+  },
+  {
+    "Group": "Keuper Undifferentiated Group",
+    "Subgroup": "",
+    "Formation": "Keuper Marl Formation",
+    "Member": "",
+    "Unit": ""
+  },
+  {
+    "Group": "Keuper Undifferentiated Group",
+    "Subgroup": "",
+    "Formation": "Keuper Mudstone Formation",
+    "Member": "",
+    "Unit": ""
+  },
+  {
+    "Group": "Keuper Undifferentiated Group",
+    "Subgroup": "",
+    "Formation": "Keuper Salt Formation",
+    "Member": "",
+    "Unit": ""
+  },
+  {
+    "Group": "Keuper Undifferentiated Group",
+    "Subgroup": "",
+    "Formation": "Lettenkohle Formation",
+    "Member": "",
+    "Unit": ""
+  },
+  {
+    "Group": "Keuper Undifferentiated Group",
+    "Subgroup": "",
+    "Formation": "",
+    "Member": "Keuper Member",
+    "Unit": "Lower"
+  },
+  {
+    "Group": "Keuper Undifferentiated Group",
+    "Subgroup": "",
+    "Formation": "",
+    "Member": "",
+    "Unit": ""
+  },
+  {
+    "Group": "Lias Group",
+    "Subgroup": "Lower",
+    "Formation": "Basal Sand Member",
+    "Member": "",
+    "Unit": ""
+  },
+  {
+    "Group": "Lias Group",
+    "Subgroup": "Lower",
+    "Formation": "Bituminous Shale Member",
+    "Member": "",
+    "Unit": ""
+  },
+  {
+    "Group": "Lias Group",
+    "Subgroup": "Lower",
+    "Formation": "Frodingham Ironstone Member",
+    "Member": "",
+    "Unit": ""
+  },
+  {
+    "Group": "Lias Group",
+    "Subgroup": "Lower",
+    "Formation": "Hettangian Limestone Member",
+    "Member": "",
+    "Unit": ""
+  },
+  {
+    "Group": "Lias Group",
+    "Subgroup": "Lower",
+    "Formation": "Hettangian Sand Member",
+    "Member": "",
+    "Unit": ""
+  },
+  {
+    "Group": "Lias Group",
+    "Subgroup": "Lower",
+    "Formation": "Hydraulic Limestone Formation",
+    "Member": "",
+    "Unit": ""
+  },
+  {
+    "Group": "Lias Group",
+    "Subgroup": "Lower",
+    "Formation": "Shale with Beef Member",
+    "Member": "",
+    "Unit": ""
+  },
+  {
+    "Group": "Lias Group",
+    "Subgroup": "Middle",
+    "Formation": "Downcliff Sand Member",
+    "Member": "",
+    "Unit": ""
+  },
+  {
+    "Group": "Lias Group",
+    "Subgroup": "Middle",
+    "Formation": "Eype Clay Member",
+    "Member": "",
+    "Unit": ""
+  },
+  {
+    "Group": "Lias Group",
+    "Subgroup": "Middle",
+    "Formation": "Marlstone Equivalent",
+    "Member": "",
+    "Unit": ""
+  },
+  {
+    "Group": "Lias Group",
+    "Subgroup": "Middle",
+    "Formation": "Marlstone Rock Bed Equivalent",
+    "Member": "",
+    "Unit": ""
+  },
+  {
+    "Group": "Lias Group",
+    "Subgroup": "Middle",
+    "Formation": "Thorncombe Sand Member",
+    "Member": "",
+    "Unit": ""
+  },
+  {
+    "Group": "Lias Group",
+    "Subgroup": "Middle + Lower",
+    "Formation": "",
+    "Member": "",
+    "Unit": ""
+  },
+  {
+    "Group": "Lias Group",
+    "Subgroup": "",
+    "Formation": "Aalenian Sandstone Formation",
+    "Member": "",
+    "Unit": ""
+  },
+  {
+    "Group": "Lias Group",
+    "Subgroup": "",
+    "Formation": "Basal Claystone Formation Equivalent",
+    "Member": "",
+    "Unit": ""
+  },
+  {
+    "Group": "Lias Group",
+    "Subgroup": "",
+    "Formation": "Dogger Formation",
+    "Member": "",
+    "Unit": ""
+  },
+  {
+    "Group": "Lias Group",
+    "Subgroup": "",
+    "Formation": "Infra Liassic Formation",
+    "Member": "",
+    "Unit": ""
+  },
+  {
+    "Group": "Lias Group",
+    "Subgroup": "",
+    "Formation": "Lias Clay Formation",
+    "Member": "",
+    "Unit": ""
+  },
+  {
+    "Group": "Lias Group",
+    "Subgroup": "",
+    "Formation": "Limestone Formation",
+    "Member": "",
+    "Unit": ""
+  },
+  {
+    "Group": "Lias Group",
+    "Subgroup": "",
+    "Formation": "Limestone Formation Equivalent",
+    "Member": "",
+    "Unit": ""
+  },
+  {
+    "Group": "Lias Group",
+    "Subgroup": "",
+    "Formation": "Marl Formation",
+    "Member": "",
+    "Unit": ""
+  },
+  {
+    "Group": "Lias Group",
+    "Subgroup": "",
+    "Formation": "Marl Formation Equivalent",
+    "Member": "",
+    "Unit": ""
+  },
+  {
+    "Group": "Lias Group",
+    "Subgroup": "",
+    "Formation": "Penda Formation",
+    "Member": "",
+    "Unit": ""
+  },
+  {
+    "Group": "Lias Group",
+    "Subgroup": "",
+    "Formation": "Redcar Mudstone Formation",
+    "Member": "",
+    "Unit": ""
+  },
+  {
+    "Group": "Lias Group",
+    "Subgroup": "",
+    "Formation": "Sandstone Formation",
+    "Member": "",
+    "Unit": ""
+  },
+  {
+    "Group": "Lias Group",
+    "Subgroup": "",
+    "Formation": "Shale Formation",
+    "Member": "",
+    "Unit": ""
+  },
+  {
+    "Group": "Lias Group",
+    "Subgroup": "",
+    "Formation": "Shale Formation Equivalent",
+    "Member": "",
+    "Unit": ""
+  },
+  {
+    "Group": "Lias Group",
+    "Subgroup": "Upper",
+    "Formation": "Bridport Sand Equivalent",
+    "Member": "",
+    "Unit": ""
+  },
+  {
+    "Group": "Lias Group",
+    "Subgroup": "Upper",
+    "Formation": "Downcliff Clay Member",
+    "Member": "",
+    "Unit": ""
+  },
+  {
+    "Group": "Lias Group",
+    "Subgroup": "Upper",
+    "Formation": "Downcliff Equivalent",
+    "Member": "",
+    "Unit": ""
+  },
+  {
+    "Group": "Lias Group",
+    "Subgroup": "Upper",
+    "Formation": "Downcliff Grit Member",
+    "Member": "",
+    "Unit": ""
+  },
+  {
+    "Group": "Lias Group",
+    "Subgroup": "Upper",
+    "Formation": "Lias Clay Member",
+    "Member": "Upper",
+    "Unit": ""
+  },
+  {
+    "Group": "Lias Group",
+    "Subgroup": "Upper",
+    "Formation": "Paper Shale Member",
+    "Member": "",
+    "Unit": ""
+  },
+  {
+    "Group": "Lower Cretaceous Sand Group",
+    "Subgroup": "",
+    "Formation": "",
+    "Member": "",
+    "Unit": ""
+  },
+  {
+    "Group": "Mangatu Group",
+    "Subgroup": "Lower",
+    "Formation": "Wanstead Formation",
+    "Member": "",
+    "Unit": ""
+  },
+  {
+    "Group": "Mercia Mudstone Group",
+    "Subgroup": "Lower",
+    "Formation": "",
+    "Member": "",
+    "Unit": ""
+  },
+  {
+    "Group": "Mercia Mudstone Group",
+    "Subgroup": "",
+    "Formation": "Blue Salt Formation",
+    "Member": "",
+    "Unit": ""
+  },
+  {
+    "Group": "Mercia Mudstone Group",
+    "Subgroup": "",
+    "Formation": "Blue Shale Formation",
+    "Member": "",
+    "Unit": ""
+  },
+  {
+    "Group": "Mercia Mudstone Group",
+    "Subgroup": "",
+    "Formation": "Brown Salt Formation",
+    "Member": "",
+    "Unit": ""
+  },
+  {
+    "Group": "Mercia Mudstone Group",
+    "Subgroup": "",
+    "Formation": "Brown Sand Formation",
+    "Member": "",
+    "Unit": ""
+  },
+  {
+    "Group": "Mercia Mudstone Group",
+    "Subgroup": "",
+    "Formation": "Brown Shale Formation",
+    "Member": "",
+    "Unit": ""
+  },
+  {
+    "Group": "Mercia Mudstone Group",
+    "Subgroup": "",
+    "Formation": "Claystone Formation",
+    "Member": "Lower",
+    "Unit": ""
+  },
+  {
+    "Group": "Mercia Mudstone Group",
+    "Subgroup": "",
+    "Formation": "Claystone Formation",
+    "Member": "Upper",
+    "Unit": ""
+  },
+  {
+    "Group": "Mercia Mudstone Group",
+    "Subgroup": "",
+    "Formation": "Coatwalls Mudstones Formation",
+    "Member": "",
+    "Unit": ""
+  },
+  {
+    "Group": "Mercia Mudstone Group",
+    "Subgroup": "",
+    "Formation": "Glenstaghey Formation",
+    "Member": "Larne Halite Member",
+    "Unit": ""
+  },
+  {
+    "Group": "Mercia Mudstone Group",
+    "Subgroup": "",
+    "Formation": "Glenstaghey Formation",
+    "Member": "",
+    "Unit": ""
+  },
+  {
+    "Group": "Mercia Mudstone Group",
+    "Subgroup": "",
+    "Formation": "Green Salt Formation",
+    "Member": "",
+    "Unit": ""
+  },
+  {
+    "Group": "Mercia Mudstone Group",
+    "Subgroup": "",
+    "Formation": "Green Shale Formation",
+    "Member": "",
+    "Unit": ""
+  },
+  {
+    "Group": "Mercia Mudstone Group",
+    "Subgroup": "",
+    "Formation": "Keuper Marl Formation",
+    "Member": "Lower",
+    "Unit": ""
+  },
+  {
+    "Group": "Mercia Mudstone Group",
+    "Subgroup": "",
+    "Formation": "Keuper Marl Formation",
+    "Member": "Middle",
+    "Unit": ""
+  },
+  {
+    "Group": "Mercia Mudstone Group",
+    "Subgroup": "",
+    "Formation": "Keuper Marl Formation",
+    "Member": "Upper",
+    "Unit": ""
+  },
+  {
+    "Group": "Mercia Mudstone Group",
+    "Subgroup": "",
+    "Formation": "Keuper Saliferous Beds Formation",
+    "Member": "",
+    "Unit": ""
+  },
+  {
+    "Group": "Mercia Mudstone Group",
+    "Subgroup": "",
+    "Formation": "Keuper Shale Formation",
+    "Member": "Lower",
+    "Unit": ""
+  },
+  {
+    "Group": "Mercia Mudstone Group",
+    "Subgroup": "",
+    "Formation": "Keuper Waterstones Formation",
+    "Member": "Lower",
+    "Unit": ""
+  },
+  {
+    "Group": "Mercia Mudstone Group",
+    "Subgroup": "",
+    "Formation": "Keuper Waterstones Formation",
+    "Member": "Upper",
+    "Unit": ""
+  },
+  {
+    "Group": "Mercia Mudstone Group",
+    "Subgroup": "",
+    "Formation": "Massive Salt Formation",
+    "Member": "",
+    "Unit": ""
+  },
+  {
+    "Group": "Mercia Mudstone Group",
+    "Subgroup": "",
+    "Formation": "Mudstone Formation",
+    "Member": "Unit B",
+    "Unit": ""
+  },
+  {
+    "Group": "Mercia Mudstone Group",
+    "Subgroup": "",
+    "Formation": "Mudstone Formation",
+    "Member": "Unit C",
+    "Unit": ""
+  },
+  {
+    "Group": "Mercia Mudstone Group",
+    "Subgroup": "",
+    "Formation": "Mudstone Formation",
+    "Member": "Unit D",
+    "Unit": ""
+  },
+  {
+    "Group": "Mercia Mudstone Group",
+    "Subgroup": "",
+    "Formation": "Mudstone Formation",
+    "Member": "Unit E",
+    "Unit": ""
+  },
+  {
+    "Group": "Mercia Mudstone Group",
+    "Subgroup": "",
+    "Formation": "Mythop Halite Formation",
+    "Member": "Lower",
+    "Unit": ""
+  },
+  {
+    "Group": "Mercia Mudstone Group",
+    "Subgroup": "",
+    "Formation": "Mythop Halite Formation",
+    "Member": "Upper",
+    "Unit": ""
+  },
+  {
+    "Group": "Mercia Mudstone Group",
+    "Subgroup": "",
+    "Formation": "Mythop Halite Formation Equivalent",
+    "Member": "",
+    "Unit": ""
+  },
+  {
+    "Group": "Mercia Mudstone Group",
+    "Subgroup": "",
+    "Formation": "Northwich Halite Formation Equivalent",
+    "Member": "",
+    "Unit": ""
+  },
+  {
+    "Group": "Mercia Mudstone Group",
+    "Subgroup": "",
+    "Formation": "Orange Salt Formation",
+    "Member": "",
+    "Unit": ""
+  },
+  {
+    "Group": "Mercia Mudstone Group",
+    "Subgroup": "",
+    "Formation": "Orange Shale Formation",
+    "Member": "",
+    "Unit": ""
+  },
+  {
+    "Group": "Mercia Mudstone Group",
+    "Subgroup": "",
+    "Formation": "Red Beds Formation",
+    "Member": "",
+    "Unit": ""
+  },
+  {
+    "Group": "Mercia Mudstone Group",
+    "Subgroup": "",
+    "Formation": "Rossall Halite Formation Equivalent",
+    "Member": "",
+    "Unit": ""
+  },
+  {
+    "Group": "Mercia Mudstone Group",
+    "Subgroup": "",
+    "Formation": "Saliferous Formation",
+    "Member": "",
+    "Unit": ""
+  },
+  {
+    "Group": "Mercia Mudstone Group",
+    "Subgroup": "",
+    "Formation": "Sandstone Formation",
+    "Member": "",
+    "Unit": ""
+  },
+  {
+    "Group": "Mercia Mudstone Group",
+    "Subgroup": "",
+    "Formation": "",
+    "Member": "Pressall Halite Member",
+    "Unit": ""
+  },
+  {
+    "Group": "Mercia Mudstone Group",
+    "Subgroup": "",
+    "Formation": "Warton Halite Formation",
+    "Member": "",
+    "Unit": ""
+  },
+  {
+    "Group": "Mercia Mudstone Group",
+    "Subgroup": "",
+    "Formation": "Wilkesley Halite Formation Equivalent",
+    "Member": "",
+    "Unit": ""
+  },
+  {
+    "Group": "Millstone Grit Group",
+    "Subgroup": "Gastrioceras Cancellatum Marine Band",
+    "Formation": "",
+    "Member": "",
+    "Unit": ""
+  },
+  {
+    "Group": "Millstone Grit Group",
+    "Subgroup": "Gastrioceras Cumbriense Marine Band",
+    "Formation": "",
+    "Member": "",
+    "Unit": ""
+  },
+  {
+    "Group": "Millstone Grit Group",
+    "Subgroup": "Middle",
+    "Formation": "Ashover Grit Member",
+    "Member": "",
+    "Unit": ""
+  },
+  {
+    "Group": "Millstone Grit Group",
+    "Subgroup": "Middle",
+    "Formation": "Chatsworth Grit Member",
+    "Member": "",
+    "Unit": ""
+  },
+  {
+    "Group": "Millstone Grit Group",
+    "Subgroup": "Middle",
+    "Formation": "",
+    "Member": "",
+    "Unit": ""
+  },
+  {
+    "Group": "Millstone Grit Group",
+    "Subgroup": "Middle Equivalent",
+    "Formation": "",
+    "Member": "",
+    "Unit": ""
+  },
+  {
+    "Group": "Millstone Grit Group",
+    "Subgroup": "Reticuloceras Bilingue Marine Band",
+    "Formation": "",
+    "Member": "",
+    "Unit": ""
+  },
+  {
+    "Group": "Millstone Grit Group",
+    "Subgroup": "Reticuloceras Gracile Marine Band",
+    "Formation": "",
+    "Member": "",
+    "Unit": ""
+  },
+  {
+    "Group": "Millstone Grit Group",
+    "Subgroup": "Reticuloceras Reticulatum Marine Band",
+    "Formation": "",
+    "Member": "",
+    "Unit": ""
+  },
+  {
+    "Group": "Millstone Grit Group",
+    "Subgroup": "Reticuloceras Superbilingue Marine �",
+    "Formation": "",
+    "Member": "",
+    "Unit": ""
+  },
+  {
+    "Group": "Millstone Grit Group",
+    "Subgroup": "Rough Rock Flags Equivalent",
+    "Formation": "",
+    "Member": "",
+    "Unit": ""
+  },
+  {
+    "Group": "Millstone Grit Group",
+    "Subgroup": "",
+    "Formation": "Bowland Shale Formation",
+    "Member": "",
+    "Unit": ""
+  },
+  {
+    "Group": "Millstone Grit Group",
+    "Subgroup": "",
+    "Formation": "Bowland Shale Formation",
+    "Member": "Upper",
+    "Unit": ""
+  },
+  {
+    "Group": "Millstone Grit Group",
+    "Subgroup": "",
+    "Formation": "Bowland Shale Group Formation Equivalent",
+    "Member": "",
+    "Unit": ""
+  },
+  {
+    "Group": "Millstone Grit Group",
+    "Subgroup": "",
+    "Formation": "Cefn-y-Fedw Sandstone Formation Equivalent",
+    "Member": "",
+    "Unit": ""
+  },
+  {
+    "Group": "Millstone Grit Group",
+    "Subgroup": "",
+    "Formation": "Edale Shale Formation",
+    "Member": "",
+    "Unit": ""
+  },
+  {
+    "Group": "Millstone Grit Group",
+    "Subgroup": "",
+    "Formation": "Haslingden Flags Formation Equivalent",
+    "Member": "",
+    "Unit": ""
+  },
+  {
+    "Group": "Millstone Grit Group",
+    "Subgroup": "",
+    "Formation": "Holcombe Brook Grit Formation Equivalent",
+    "Member": "",
+    "Unit": ""
+  },
+  {
+    "Group": "Millstone Grit Group",
+    "Subgroup": "",
+    "Formation": "Hollywell Shale Formation",
+    "Member": "",
+    "Unit": ""
+  },
+  {
+    "Group": "Millstone Grit Group",
+    "Subgroup": "",
+    "Formation": "Kinderscout Grit Formation",
+    "Member": "Shale Grit Member",
+    "Unit": ""
+  },
+  {
+    "Group": "Millstone Grit Group",
+    "Subgroup": "",
+    "Formation": "Kinderscout Grit Formation Equivalent",
+    "Member": "",
+    "Unit": ""
+  },
+  {
+    "Group": "Millstone Grit Group",
+    "Subgroup": "",
+    "Formation": "Rough Rock Formation Equivalent",
+    "Member": "",
+    "Unit": ""
+  },
+  {
+    "Group": "Millstone Grit Group",
+    "Subgroup": "",
+    "Formation": "Sabden Shale Formation Equivalent",
+    "Member": "",
+    "Unit": ""
+  },
+  {
+    "Group": "Millstone Grit Group",
+    "Subgroup": "",
+    "Formation": "Skipton Moor Grit Formation",
+    "Member": "",
+    "Unit": ""
+  },
+  {
+    "Group": "Millstone Grit Group",
+    "Subgroup": "",
+    "Formation": "Skipton Moor Grit Formation Equivalent",
+    "Member": "",
+    "Unit": ""
+  },
+  {
+    "Group": "Millstone Grit Group",
+    "Subgroup": "",
+    "Formation": "",
+    "Member": "Kinderscout Grit Member Equivalent",
+    "Unit": ""
+  },
+  {
+    "Group": "Millstone Grit Group",
+    "Subgroup": "",
+    "Formation": "",
+    "Member": "",
+    "Unit": "Sandy Unit"
+  },
+  {
+    "Group": "Millstone Grit Group",
+    "Subgroup": "",
+    "Formation": "Wiltshire Grit Formation",
+    "Member": "",
+    "Unit": ""
+  },
+  {
+    "Group": "Montrose Group",
+    "Subgroup": "Middle",
+    "Formation": "Sandstone Formation A",
+    "Member": "",
+    "Unit": ""
+  },
+  {
+    "Group": "Montrose Group",
+    "Subgroup": "Middle",
+    "Formation": "Sandstone Formation B",
+    "Member": "",
+    "Unit": ""
+  },
+  {
+    "Group": "Montrose Group",
+    "Subgroup": "Middle",
+    "Formation": "Silt Shale Unit",
+    "Member": "",
+    "Unit": ""
+  },
+  {
+    "Group": "Montrose Group",
+    "Subgroup": "",
+    "Formation": "21 Sand Formation",
+    "Member": "",
+    "Unit": ""
+  },
+  {
+    "Group": "Montrose Group",
+    "Subgroup": "",
+    "Formation": "Andrew Formation",
+    "Member": "A1 Sand Member",
+    "Unit": ""
+  },
+  {
+    "Group": "Montrose Group",
+    "Subgroup": "",
+    "Formation": "Andrew Formation",
+    "Member": "Cenodiscus Unit",
+    "Unit": ""
+  },
+  {
+    "Group": "Montrose Group",
+    "Subgroup": "",
+    "Formation": "Andrew Formation",
+    "Member": "Claystone Member",
+    "Unit": ""
+  },
+  {
+    "Group": "Montrose Group",
+    "Subgroup": "",
+    "Formation": "Andrew Formation",
+    "Member": "Lower",
+    "Unit": ""
+  },
+  {
+    "Group": "Montrose Group",
+    "Subgroup": "",
+    "Formation": "Andrew Formation",
+    "Member": "Mudstone Member",
+    "Unit": ""
+  },
+  {
+    "Group": "Montrose Group",
+    "Subgroup": "",
+    "Formation": "Andrew Formation",
+    "Member": "Sand Unit",
+    "Unit": ""
+  },
+  {
+    "Group": "Montrose Group",
+    "Subgroup": "",
+    "Formation": "Andrew Formation",
+    "Member": "Sand Unit A1",
+    "Unit": ""
+  },
+  {
+    "Group": "Montrose Group",
+    "Subgroup": "",
+    "Formation": "Andrew Formation",
+    "Member": "Sand Unit A2",
+    "Unit": ""
+  },
+  {
+    "Group": "Montrose Group",
+    "Subgroup": "",
+    "Formation": "Andrew Formation",
+    "Member": "Sand Unit A3",
+    "Unit": ""
+  },
+  {
+    "Group": "Montrose Group",
+    "Subgroup": "",
+    "Formation": "Andrew Formation",
+    "Member": "Sand Unit B1",
+    "Unit": ""
+  },
+  {
+    "Group": "Montrose Group",
+    "Subgroup": "",
+    "Formation": "Andrew Formation",
+    "Member": "Sand Unit B2",
+    "Unit": ""
+  },
+  {
+    "Group": "Montrose Group",
+    "Subgroup": "",
+    "Formation": "Andrew Formation",
+    "Member": "Sand Unit C",
+    "Unit": ""
+  },
+  {
+    "Group": "Montrose Group",
+    "Subgroup": "",
+    "Formation": "Andrew Formation",
+    "Member": "Sandstone Unit A",
+    "Unit": ""
+  },
+  {
+    "Group": "Montrose Group",
+    "Subgroup": "",
+    "Formation": "Andrew Formation",
+    "Member": "Sandstone Unit B",
+    "Unit": ""
+  },
+  {
+    "Group": "Montrose Group",
+    "Subgroup": "",
+    "Formation": "Andrew Formation",
+    "Member": "Shale Unit",
+    "Unit": ""
+  },
+  {
+    "Group": "Montrose Group",
+    "Subgroup": "",
+    "Formation": "Andrew Formation",
+    "Member": "Shale Unit A",
+    "Unit": ""
+  },
+  {
+    "Group": "Montrose Group",
+    "Subgroup": "",
+    "Formation": "Andrew Formation",
+    "Member": "Shale Unit B",
+    "Unit": ""
+  },
+  {
+    "Group": "Montrose Group",
+    "Subgroup": "",
+    "Formation": "Andrew Formation",
+    "Member": "Silt Member",
+    "Unit": ""
+  },
+  {
+    "Group": "Montrose Group",
+    "Subgroup": "",
+    "Formation": "Andrew Formation",
+    "Member": "Tuff Member",
+    "Unit": ""
+  },
+  {
+    "Group": "Montrose Group",
+    "Subgroup": "",
+    "Formation": "Andrew Formation",
+    "Member": "Tuffaceous unit",
+    "Unit": ""
+  },
+  {
+    "Group": "Montrose Group",
+    "Subgroup": "",
+    "Formation": "Andrew Formation",
+    "Member": "Volcanic Unit",
+    "Unit": ""
+  },
+  {
+    "Group": "Montrose Group",
+    "Subgroup": "",
+    "Formation": "Andrew Formation",
+    "Member": "Zone 1",
+    "Unit": ""
+  },
+  {
+    "Group": "Montrose Group",
+    "Subgroup": "",
+    "Formation": "Andrew Formation",
+    "Member": "Zone 2",
+    "Unit": ""
+  },
+  {
+    "Group": "Montrose Group",
+    "Subgroup": "",
+    "Formation": "Andrew Formation + Forties Formation",
+    "Member": "",
+    "Unit": ""
+  },
+  {
+    "Group": "Montrose Group",
+    "Subgroup": "",
+    "Formation": "Andrew Formation + Forties Formation",
+    "Member": "",
+    "Unit": ""
+  },
+  {
+    "Group": "Montrose Group",
+    "Subgroup": "",
+    "Formation": "Andrew Formation Equivalent",
+    "Member": "Lower",
+    "Unit": ""
+  },
+  {
+    "Group": "Montrose Group",
+    "Subgroup": "",
+    "Formation": "Andrew Formation Equivalent",
+    "Member": "",
+    "Unit": ""
+  },
+  {
+    "Group": "Montrose Group",
+    "Subgroup": "",
+    "Formation": "Andrew Formation Equivalent",
+    "Member": "Upper",
+    "Unit": ""
+  },
+  {
+    "Group": "Montrose Group",
+    "Subgroup": "",
+    "Formation": "Balmoral Formation",
+    "Member": "",
+    "Unit": ""
+  },
+  {
+    "Group": "Montrose Group",
+    "Subgroup": "",
+    "Formation": "Balmoral Formation + Andrew Formatin",
+    "Member": "",
+    "Unit": ""
+  },
+  {
+    "Group": "Montrose Group",
+    "Subgroup": "",
+    "Formation": "Balmoral Formation Equivalent",
+    "Member": "",
+    "Unit": ""
+  },
+  {
+    "Group": "Montrose Group",
+    "Subgroup": "",
+    "Formation": "Burns Formation",
+    "Member": "",
+    "Unit": ""
+  },
+  {
+    "Group": "Montrose Group",
+    "Subgroup": "",
+    "Formation": "C Formation",
+    "Member": "",
+    "Unit": ""
+  },
+  {
+    "Group": "Montrose Group",
+    "Subgroup": "",
+    "Formation": "Calcareous Sand Formation",
+    "Member": "",
+    "Unit": ""
+  },
+  {
+    "Group": "Montrose Group",
+    "Subgroup": "",
+    "Formation": "Cenodiscus Claystone Formation",
+    "Member": "",
+    "Unit": ""
+  },
+  {
+    "Group": "Montrose Group",
+    "Subgroup": "",
+    "Formation": "Cod Formation",
+    "Member": "",
+    "Unit": ""
+  },
+  {
+    "Group": "Montrose Group",
+    "Subgroup": "",
+    "Formation": "Faeroes Formation",
+    "Member": "Lower",
+    "Unit": ""
+  },
+  {
+    "Group": "Montrose Group",
+    "Subgroup": "",
+    "Formation": "Faeroes Formation",
+    "Member": "Upper",
+    "Unit": ""
+  },
+  {
+    "Group": "Montrose Group",
+    "Subgroup": "",
+    "Formation": "Forties Formation",
+    "Member": "Alpha Bravo Sandstone Member",
+    "Unit": ""
+  },
+  {
+    "Group": "Montrose Group",
+    "Subgroup": "",
+    "Formation": "Forties Formation",
+    "Member": "Bravo Channel Complex",
+    "Unit": ""
+  },
+  {
+    "Group": "Montrose Group",
+    "Subgroup": "",
+    "Formation": "Forties Formation",
+    "Member": "Central Graben Clay Member",
+    "Unit": "Lower"
+  },
+  {
+    "Group": "Montrose Group",
+    "Subgroup": "",
+    "Formation": "Forties Formation",
+    "Member": "Charlie Channel Complex",
+    "Unit": ""
+  },
+  {
+    "Group": "Montrose Group",
+    "Subgroup": "",
+    "Formation": "Forties Formation",
+    "Member": "Charlie Shale Member",
+    "Unit": ""
+  },
+  {
+    "Group": "Montrose Group",
+    "Subgroup": "",
+    "Formation": "Forties Formation",
+    "Member": "Delta Echo Channel Complex",
+    "Unit": ""
+  },
+  {
+    "Group": "Montrose Group",
+    "Subgroup": "",
+    "Formation": "Forties Formation",
+    "Member": "Echo Sandstone Member",
+    "Unit": ""
+  },
+  {
+    "Group": "Montrose Group",
+    "Subgroup": "",
+    "Formation": "Forties Formation",
+    "Member": "Forties Reservoir",
+    "Unit": ""
+  },
+  {
+    "Group": "Montrose Group",
+    "Subgroup": "",
+    "Formation": "Forties Formation",
+    "Member": "Halibut Sand Member",
+    "Unit": ""
+  },
+  {
+    "Group": "Montrose Group",
+    "Subgroup": "",
+    "Formation": "Forties Formation",
+    "Member": "Heather Clay Member",
+    "Unit": ""
+  },
+  {
+    "Group": "Montrose Group",
+    "Subgroup": "",
+    "Formation": "Forties Formation",
+    "Member": "Heather Sand Member",
+    "Unit": ""
+  },
+  {
+    "Group": "Montrose Group",
+    "Subgroup": "",
+    "Formation": "Forties Formation",
+    "Member": "Red Beds Member",
+    "Unit": ""
+  },
+  {
+    "Group": "Montrose Group",
+    "Subgroup": "",
+    "Formation": "Forties Formation",
+    "Member": "Reservoir Shale Member",
+    "Unit": "Middle"
+  },
+  {
+    "Group": "Montrose Group",
+    "Subgroup": "",
+    "Formation": "Forties Formation",
+    "Member": "Sand Unit",
+    "Unit": "Lower"
+  },
+  {
+    "Group": "Montrose Group",
+    "Subgroup": "",
+    "Formation": "Forties Formation",
+    "Member": "Sand Unit",
+    "Unit": "Upper"
+  },
+  {
+    "Group": "Montrose Group",
+    "Subgroup": "",
+    "Formation": "Forties Formation",
+    "Member": "Sandstone Member",
+    "Unit": "Lower"
+  },
+  {
+    "Group": "Montrose Group",
+    "Subgroup": "",
+    "Formation": "Forties Formation",
+    "Member": "Sandstone Member",
+    "Unit": "Upper"
+  },
+  {
+    "Group": "Montrose Group",
+    "Subgroup": "",
+    "Formation": "Forties Formation",
+    "Member": "",
+    "Unit": ""
+  },
+  {
+    "Group": "Montrose Group",
+    "Subgroup": "",
+    "Formation": "Heimdal Formation",
+    "Member": "Heimdal Member B Equivalent",
+    "Unit": ""
+  },
+  {
+    "Group": "Montrose Group",
+    "Subgroup": "",
+    "Formation": "Heimdal Formation",
+    "Member": "Sand Member",
+    "Unit": "Lower"
+  },
+  {
+    "Group": "Montrose Group",
+    "Subgroup": "",
+    "Formation": "Heimdal Formation",
+    "Member": "Sand Member",
+    "Unit": "Upper"
+  },
+  {
+    "Group": "Montrose Group",
+    "Subgroup": "",
+    "Formation": "Heimdal Formation",
+    "Member": "Sandstone Member",
+    "Unit": "Middle"
+  },
+  {
+    "Group": "Montrose Group",
+    "Subgroup": "",
+    "Formation": "Heimdal Formation",
+    "Member": "Shale Member",
+    "Unit": "Lower"
+  },
+  {
+    "Group": "Montrose Group",
+    "Subgroup": "",
+    "Formation": "Heimdal Formation",
+    "Member": "Upper-Middle Palaeocene Sand Member",
+    "Unit": ""
+  },
+  {
+    "Group": "Montrose Group",
+    "Subgroup": "",
+    "Formation": "Heimdal Formation Equivalent",
+    "Member": "",
+    "Unit": ""
+  },
+  {
+    "Group": "Montrose Group",
+    "Subgroup": "",
+    "Formation": "Lower Palaeocene Clay Formation",
+    "Member": "",
+    "Unit": ""
+  },
+  {
+    "Group": "Montrose Group",
+    "Subgroup": "",
+    "Formation": "Lower Palaeocene Formation C",
+    "Member": "",
+    "Unit": ""
+  },
+  {
+    "Group": "Montrose Group",
+    "Subgroup": "",
+    "Formation": "Lower Palaeocene Sand Formation",
+    "Member": "",
+    "Unit": ""
+  },
+  {
+    "Group": "Montrose Group",
+    "Subgroup": "",
+    "Formation": "Lower Paleocene Interbedded Formation",
+    "Member": "",
+    "Unit": ""
+  },
+  {
+    "Group": "Montrose Group",
+    "Subgroup": "",
+    "Formation": "Lower-Middle Palaeocene Sand Formation",
+    "Member": "",
+    "Unit": ""
+  },
+  {
+    "Group": "Montrose Group",
+    "Subgroup": "",
+    "Formation": "Lower-Middle Palaeocene Shale Formation",
+    "Member": "",
+    "Unit": ""
+  },
+  {
+    "Group": "Montrose Group",
+    "Subgroup": "",
+    "Formation": "Lyell Sand Formation",
+    "Member": "Lower",
+    "Unit": ""
+  },
+  {
+    "Group": "Montrose Group",
+    "Subgroup": "",
+    "Formation": "Lyell Sand Formation",
+    "Member": "",
+    "Unit": ""
+  },
+  {
+    "Group": "Montrose Group",
+    "Subgroup": "",
+    "Formation": "Lyell Sand Formation",
+    "Member": "Upper",
+    "Unit": ""
+  },
+  {
+    "Group": "Montrose Group",
+    "Subgroup": "",
+    "Formation": "Maureen Formation",
+    "Member": "Allochthonous Chalks Member",
+    "Unit": ""
+  },
+  {
+    "Group": "Montrose Group",
+    "Subgroup": "",
+    "Formation": "Maureen Formation",
+    "Member": "Basal Marl Unit",
+    "Unit": ""
+  },
+  {
+    "Group": "Montrose Group",
+    "Subgroup": "",
+    "Formation": "Maureen Formation",
+    "Member": "Calcareous Member",
+    "Unit": ""
+  },
+  {
+    "Group": "Montrose Group",
+    "Subgroup": "",
+    "Formation": "Maureen Formation",
+    "Member": "Cenodiscus Shale Member",
+    "Unit": ""
+  },
+  {
+    "Group": "Montrose Group",
+    "Subgroup": "",
+    "Formation": "Maureen Formation",
+    "Member": "Chalk Member",
+    "Unit": ""
+  },
+  {
+    "Group": "Montrose Group",
+    "Subgroup": "",
+    "Formation": "Maureen Formation",
+    "Member": "Claystone Unit",
+    "Unit": ""
+  },
+  {
+    "Group": "Montrose Group",
+    "Subgroup": "",
+    "Formation": "Maureen Formation",
+    "Member": "Danian Clastics Member",
+    "Unit": ""
+  },
+  {
+    "Group": "Montrose Group",
+    "Subgroup": "",
+    "Formation": "Maureen Formation",
+    "Member": "Danian Formation",
+    "Unit": ""
+  },
+  {
+    "Group": "Montrose Group",
+    "Subgroup": "",
+    "Formation": "Maureen Formation",
+    "Member": "Danian Sand Member",
+    "Unit": ""
+  },
+  {
+    "Group": "Montrose Group",
+    "Subgroup": "",
+    "Formation": "Maureen Formation",
+    "Member": "Fan Member",
+    "Unit": ""
+  },
+  {
+    "Group": "Montrose Group",
+    "Subgroup": "",
+    "Formation": "Maureen Formation",
+    "Member": "Limestone Member",
+    "Unit": ""
+  },
+  {
+    "Group": "Montrose Group",
+    "Subgroup": "",
+    "Formation": "Maureen Formation",
+    "Member": "Lower",
+    "Unit": ""
+  },
+  {
+    "Group": "Montrose Group",
+    "Subgroup": "",
+    "Formation": "Maureen Formation",
+    "Member": "Marl Member",
+    "Unit": ""
+  },
+  {
+    "Group": "Montrose Group",
+    "Subgroup": "",
+    "Formation": "Maureen Formation",
+    "Member": "Maureen Reworked Unit",
+    "Unit": ""
+  },
+  {
+    "Group": "Montrose Group",
+    "Subgroup": "",
+    "Formation": "Maureen Formation",
+    "Member": "Melange Member",
+    "Unit": ""
+  },
+  {
+    "Group": "Montrose Group",
+    "Subgroup": "",
+    "Formation": "Maureen Formation",
+    "Member": "Pay Sand Member",
+    "Unit": ""
+  },
+  {
+    "Group": "Montrose Group",
+    "Subgroup": "",
+    "Formation": "Maureen Formation",
+    "Member": "Sand Member",
+    "Unit": ""
+  },
+  {
+    "Group": "Montrose Group",
+    "Subgroup": "",
+    "Formation": "Maureen Formation",
+    "Member": "Shale Member",
+    "Unit": ""
+  },
+  {
+    "Group": "Montrose Group",
+    "Subgroup": "",
+    "Formation": "Maureen Formation",
+    "Member": "Upper",
+    "Unit": ""
+  },
+  {
+    "Group": "Montrose Group",
+    "Subgroup": "",
+    "Formation": "Maureen North Formation",
+    "Member": "",
+    "Unit": ""
+  },
+  {
+    "Group": "Montrose Group",
+    "Subgroup": "",
+    "Formation": "Middle Palaeocene Sand Formation",
+    "Member": "",
+    "Unit": ""
+  },
+  {
+    "Group": "Montrose Group",
+    "Subgroup": "",
+    "Formation": "Middle Palaeocene Shale Formation",
+    "Member": "",
+    "Unit": ""
+  },
+  {
+    "Group": "Montrose Group",
+    "Subgroup": "",
+    "Formation": "Ninian Sand Formation",
+    "Member": "",
+    "Unit": ""
+  },
+  {
+    "Group": "Montrose Group",
+    "Subgroup": "",
+    "Formation": "Ninian Sand Formation Equivalent",
+    "Member": "",
+    "Unit": ""
+  },
+  {
+    "Group": "Montrose Group",
+    "Subgroup": "",
+    "Formation": "Palaeocene Sand Formation",
+    "Member": "",
+    "Unit": ""
+  },
+  {
+    "Group": "Montrose Group",
+    "Subgroup": "",
+    "Formation": "Palaeocene Shale Formation",
+    "Member": "",
+    "Unit": ""
+  },
+  {
+    "Group": "Montrose Group",
+    "Subgroup": "",
+    "Formation": "Ty Limestone Formation",
+    "Member": "",
+    "Unit": ""
+  },
+  {
+    "Group": "Montrose Group",
+    "Subgroup": "",
+    "Formation": "",
+    "Member": "Heimdal Sand Member Equivalent",
+    "Unit": ""
+  },
+  {
+    "Group": "Montrose Group",
+    "Subgroup": "",
+    "Formation": "",
+    "Member": "Sand + Shale Member",
+    "Unit": ""
+  },
+  {
+    "Group": "Montrose Group",
+    "Subgroup": "",
+    "Formation": "",
+    "Member": "Sand Member",
+    "Unit": ""
+  },
+  {
+    "Group": "Montrose Group",
+    "Subgroup": "",
+    "Formation": "",
+    "Member": "",
+    "Unit": "Basal Sandstone Unit"
+  },
+  {
+    "Group": "Montrose Group",
+    "Subgroup": "",
+    "Formation": "",
+    "Member": "",
+    "Unit": "Claystone Unit"
+  },
+  {
+    "Group": "Montrose Group",
+    "Subgroup": "",
+    "Formation": "",
+    "Member": "",
+    "Unit": "Claystone Unit"
+  },
+  {
+    "Group": "Montrose Group",
+    "Subgroup": "",
+    "Formation": "",
+    "Member": "",
+    "Unit": "Claystone Unit"
+  },
+  {
+    "Group": "Montrose Group",
+    "Subgroup": "",
+    "Formation": "Upper Palaeocene Sand Formation",
+    "Member": "",
+    "Unit": ""
+  },
+  {
+    "Group": "Montrose Group",
+    "Subgroup": "",
+    "Formation": "Upper Palaeocene Shale Formation",
+    "Member": "",
+    "Unit": ""
+  },
+  {
+    "Group": "Montrose Group",
+    "Subgroup": "",
+    "Formation": "Upper Palaeocene Tuff Formation",
+    "Member": "",
+    "Unit": ""
+  },
+  {
+    "Group": "Montrose Group",
+    "Subgroup": "",
+    "Formation": "Vale Formation",
+    "Member": "",
+    "Unit": ""
+  },
+  {
+    "Group": "Moray Group",
+    "Subgroup": "",
+    "Formation": "Balder + Flett Formation Equivalent",
+    "Member": "Nummulite Sandstone Member",
+    "Unit": ""
+  },
+  {
+    "Group": "Moray Group",
+    "Subgroup": "",
+    "Formation": "Dornoch Formation",
+    "Member": "3a",
+    "Unit": ""
+  },
+  {
+    "Group": "Moray Group",
+    "Subgroup": "",
+    "Formation": "Dornoch Formation",
+    "Member": "3b",
+    "Unit": ""
+  },
+  {
+    "Group": "Moray Group",
+    "Subgroup": "",
+    "Formation": "Dornoch Formation",
+    "Member": "Beauly Member",
+    "Unit": ""
+  },
+  {
+    "Group": "Moray Group",
+    "Subgroup": "",
+    "Formation": "Dornoch Formation",
+    "Member": "Mudstone Member",
+    "Unit": ""
+  },
+  {
+    "Group": "Moray Group",
+    "Subgroup": "",
+    "Formation": "Dornoch Formation",
+    "Member": "Sandstone Member",
+    "Unit": "Lower"
+  },
+  {
+    "Group": "Moray Group",
+    "Subgroup": "",
+    "Formation": "Dornoch Formation",
+    "Member": "Sandstone Member",
+    "Unit": ""
+  },
+  {
+    "Group": "Moray Group",
+    "Subgroup": "",
+    "Formation": "Dornoch Formation",
+    "Member": "Sandstone Member",
+    "Unit": "Upper"
+  },
+  {
+    "Group": "Moray Group",
+    "Subgroup": "",
+    "Formation": "Flett Formation",
+    "Member": "F1a Unit",
+    "Unit": ""
+  },
+  {
+    "Group": "Moray Group",
+    "Subgroup": "",
+    "Formation": "Flett Formation",
+    "Member": "F1b Unit",
+    "Unit": ""
+  },
+  {
+    "Group": "Moray Group",
+    "Subgroup": "",
+    "Formation": "Flett Formation",
+    "Member": "F2 Unit",
+    "Unit": ""
+  },
+  {
+    "Group": "Moray Group",
+    "Subgroup": "",
+    "Formation": "Flett Formation",
+    "Member": "F3 Unit",
+    "Unit": ""
+  },
+  {
+    "Group": "Moray Group",
+    "Subgroup": "",
+    "Formation": "Flett Formation",
+    "Member": "Hildasay Sandstone Member",
+    "Unit": "Lower"
+  },
+  {
+    "Group": "Moray Group",
+    "Subgroup": "",
+    "Formation": "Flett Formation",
+    "Member": "Hyaloclastite Unit",
+    "Unit": ""
+  },
+  {
+    "Group": "Moray Group",
+    "Subgroup": "",
+    "Formation": "",
+    "Member": "",
+    "Unit": "Sand Unit"
+  },
+  {
+    "Group": "Moray Group Equivalent",
+    "Subgroup": "",
+    "Formation": "",
+    "Member": "",
+    "Unit": ""
+  },
+  {
+    "Group": "Muschelkalk Undifferentiated Group",
+    "Subgroup": "",
+    "Formation": "2nd Salt Formation",
+    "Member": "",
+    "Unit": ""
+  },
+  {
+    "Group": "Muschelkalk Undifferentiated Group",
+    "Subgroup": "",
+    "Formation": "Claystone Formation",
+    "Member": "Lower",
+    "Unit": ""
+  },
+  {
+    "Group": "Muschelkalk Undifferentiated Group",
+    "Subgroup": "",
+    "Formation": "Claystone Formation",
+    "Member": "Upper",
+    "Unit": ""
+  },
+  {
+    "Group": "Muschelkalk Undifferentiated Group",
+    "Subgroup": "",
+    "Formation": "",
+    "Member": "",
+    "Unit": ""
+  },
+  {
+    "Group": "Muschelkalk Undifferentiated Group",
+    "Subgroup": "Upper",
+    "Formation": "",
+    "Member": "",
+    "Unit": ""
+  },
+  {
+    "Group": "New Red Sandstone Group",
+    "Subgroup": "",
+    "Formation": "",
+    "Member": "",
+    "Unit": "Unit A"
+  },
+  {
+    "Group": "New Red Sandstone Group",
+    "Subgroup": "",
+    "Formation": "",
+    "Member": "",
+    "Unit": "Unit B"
+  },
+  {
+    "Group": "New Red Sandstone Group",
+    "Subgroup": "",
+    "Formation": "",
+    "Member": "",
+    "Unit": "Unit C"
+  },
+  {
+    "Group": "New Red Sandstone Group",
+    "Subgroup": "",
+    "Formation": "",
+    "Member": "",
+    "Unit": "Unit D"
+  },
+  {
+    "Group": "New Red Sandstone Group",
+    "Subgroup": "",
+    "Formation": "",
+    "Member": "",
+    "Unit": "Unit E"
+  },
+  {
+    "Group": "New Red Sandstone Group",
+    "Subgroup": "",
+    "Formation": "",
+    "Member": "",
+    "Unit": "Unit F"
+  },
+  {
+    "Group": "New Red Sandstone Group",
+    "Subgroup": "",
+    "Formation": "",
+    "Member": "",
+    "Unit": "Unit G"
+  },
+  {
+    "Group": "New Red Sandstone Group",
+    "Subgroup": "",
+    "Formation": "",
+    "Member": "",
+    "Unit": "Unit H"
+  },
+  {
+    "Group": "New Red Sandstone Group",
+    "Subgroup": "",
+    "Formation": "",
+    "Member": "",
+    "Unit": "Unit I"
+  },
+  {
+    "Group": "New Red Sandstone Group",
+    "Subgroup": "",
+    "Formation": "",
+    "Member": "",
+    "Unit": "Unit J"
+  },
+  {
+    "Group": "New Red Sandstone Group",
+    "Subgroup": "",
+    "Formation": "",
+    "Member": "",
+    "Unit": "Unit K"
+  },
+  {
+    "Group": "New Red Sandstone Group",
+    "Subgroup": "",
+    "Formation": "",
+    "Member": "",
+    "Unit": "Unit L"
+  },
+  {
+    "Group": "New Red Sandstone Group",
+    "Subgroup": "",
+    "Formation": "",
+    "Member": "",
+    "Unit": "Unit M"
+  },
+  {
+    "Group": "New Red Sandstone Group",
+    "Subgroup": "",
+    "Formation": "",
+    "Member": "",
+    "Unit": "Unit N"
+  },
+  {
+    "Group": "New Red Sandstone Group",
+    "Subgroup": "",
+    "Formation": "",
+    "Member": "",
+    "Unit": "Unit O"
+  },
+  {
+    "Group": "Nordland Group",
+    "Subgroup": "",
+    "Formation": "Basin Sand Formation",
+    "Member": "",
+    "Unit": ""
+  },
+  {
+    "Group": "Nordland Group",
+    "Subgroup": "",
+    "Formation": "Blue Sand Formation",
+    "Member": "",
+    "Unit": ""
+  },
+  {
+    "Group": "Nordland Group",
+    "Subgroup": "",
+    "Formation": "Claret Sand Formation",
+    "Member": "",
+    "Unit": ""
+  },
+  {
+    "Group": "Nordland Group",
+    "Subgroup": "",
+    "Formation": "Coal Pit Formation",
+    "Member": "",
+    "Unit": ""
+  },
+  {
+    "Group": "Nordland Group",
+    "Subgroup": "",
+    "Formation": "Crenulate Sand Formation",
+    "Member": "",
+    "Unit": ""
+  },
+  {
+    "Group": "Nordland Group",
+    "Subgroup": "",
+    "Formation": "Mariner Formation",
+    "Member": "",
+    "Unit": ""
+  },
+  {
+    "Group": "Nordland Group",
+    "Subgroup": "",
+    "Formation": "Miocene Limestone Formation",
+    "Member": "",
+    "Unit": ""
+  },
+  {
+    "Group": "Nordland Group",
+    "Subgroup": "",
+    "Formation": "Miocene Sand Formation",
+    "Member": "",
+    "Unit": ""
+  },
+  {
+    "Group": "Nordland Group",
+    "Subgroup": "",
+    "Formation": "Nordland/Hordaland Interbedded Formation",
+    "Member": "Middle",
+    "Unit": ""
+  },
+  {
+    "Group": "Nordland Group",
+    "Subgroup": "",
+    "Formation": "Nordland/Hordaland Siltstone Formation",
+    "Member": "Lower",
+    "Unit": ""
+  },
+  {
+    "Group": "Nordland Group",
+    "Subgroup": "",
+    "Formation": "North Sea Clay Formation",
+    "Member": "Upper",
+    "Unit": ""
+  },
+  {
+    "Group": "Nordland Group",
+    "Subgroup": "",
+    "Formation": "Sand Formation",
+    "Member": "",
+    "Unit": ""
+  },
+  {
+    "Group": "Nordland Group",
+    "Subgroup": "",
+    "Formation": "Sheet Sand Formation",
+    "Member": "",
+    "Unit": ""
+  },
+  {
+    "Group": "Nordland Group",
+    "Subgroup": "",
+    "Formation": "",
+    "Member": "Nordland/Hordaland Sand Member",
+    "Unit": ""
+  },
+  {
+    "Group": "Nordland Group",
+    "Subgroup": "",
+    "Formation": "",
+    "Member": "Sandstone Member Equivalent",
+    "Unit": ""
+  },
+  {
+    "Group": "Nordland Group",
+    "Subgroup": "",
+    "Formation": "",
+    "Member": "",
+    "Unit": "Glacial Channel Unit"
+  },
+  {
+    "Group": "Nordland Group",
+    "Subgroup": "",
+    "Formation": "",
+    "Member": "",
+    "Unit": "Glauconitic Unit"
+  },
+  {
+    "Group": "Nordland Group",
+    "Subgroup": "",
+    "Formation": "",
+    "Member": "",
+    "Unit": "Pliocene Sand Unit"
+  },
+  {
+    "Group": "Nordland Group",
+    "Subgroup": "",
+    "Formation": "Utsira Formation",
+    "Member": "Sand Member",
+    "Unit": ""
+  }
+]

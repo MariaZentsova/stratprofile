@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<style>
+body {
+  font: 10px sans-serif;
+  position: relative;
+}
+	
+.node {
+  box-sizing: border-box;
+  line-height: 1em;
+  overflow: hidden;
+  position: absolute;
+  white-space: pre;
+  background: #ddd;
+}
+
+.node-label{
+  margin: 4px;
+}
+</style>
+<script src="https://d3js.org/d3.v4.min.js"></script>
+<script src="https://d3js.org/d3-scale-chromatic.v1.min.js"></script>
+<body>
+<div id="chart"></div>
+<script>
+
+var width = 960, height = 1060;
+
+var partition = d3.partition()
+  .size([width, height])
+  .padding(0.5)
+  .round(true);
+
+
+var colour = d3.scaleSequential().domain([7, 0]);
+
+var colours = d3.map();
+colours.set("Hordaland Group", colour.copy().interpolator(d3.interpolateBlues));
+colours.set("Humber Group", colour.copy().interpolator(d3.interpolateGreens));
+colours.set("Millstone Grit Group", colour.copy().interpolator(d3.interpolateOranges));
+colours.set("Montrose Group", colour.copy().interpolator(d3.interpolatePurples));
+colours.set("New Red Sandstone Group", colour.copy().interpolator(d3.interpolateReds));
+colours.set("Muschelkalk Undifferentiated Group", colour.copy().interpolator(d3.interpolateGreys));
+colours.set("Moray Group", colour.copy().interpolator(d3.interpolateBlues));
+	
+d3.json("formations.json", function (error, data) {
+  console.log("data", data);
+
+  var nest = d3.nest()
+    .key(function (d) { return d.Group; })
+    .key(function (d) { return d.Subgroup; })
+    .key(function (d) { return d.Formation; })
+    .key(function (d) { return d.Member; })
+    .key(function (d) { return d.Unit; })
+    .entries(data);
+
+  console.log("nest", nest);
+
+  var root = d3.hierarchy({values: nest}, function (d) { return d.values; })
+    .count();
+
+  // Tell each node which group it descends from.
+  root.children.forEach(function (child) {
+    child.each(function (descendant) {
+      descendant.group = child.data.key;
+    });
+  });
+
+  console.log("root pre-partition", root);
+
+  partition(root)
+
+  console.log("root post-partition", root);
+
+/*
+  svg.selectAll(".node")
+    .data(root.descendants())
+    .enter().append("rect")
+      .attr("class", "node")
+      .attr("x", function (d) { return d.y0; })
+      .attr("y", function (d) { return d.x0; })
+      .attr("width", function (d) { return d.y1 - d.y0; })
+      .attr("height", function (d) { return d.x1 - d.x0; })
+      .attr("fill", function (d) {
+        if (colours.has(d.group)) {
+          return colours.get(d.group)(d.depth);
+        }
+        return "#bdbdbd";
+      })
+      .attr("stroke", "#f0f0f0")
+      .attr("stroke-width", 0.5)
+      .attr("shape-rendering", "crispEdges")
+      .on("click", function(d) { console.log(d); });
+	  
+*/
+
+	// Drawing chart using divs
+var form = d3.select("body")
+	.selectAll(".node")
+	.data(root.descendants())
+	.enter().append("div")
+		.attr("class","node")
+		.style("left", function(d) { return d.y0  + "px"; })
+        .style("top", function(d) { return d.x0 + "px"; })
+        .style("width", function(d) { return d.y1 - d.y0 + "px"; })
+        .style("height", function(d) { return d.x1 - d.x0 + "px"; })
+		.style("backgroud-color", function(d) {
+			if(colours.has(d.group)){
+			   return colours.get(d.group)(d.depth);
+			   }
+			return "bdbdbd";
+		})
+		.on("click", function(d) {console.log(d);}) ;
+
+	
+
+form.append("div")
+	.attr("class","node-label")
+	.text(function(d) {return d.data.key; });
+	
+
+
+});
+
+
+/*
+function clicked(d) {
+  x.domain([d.x, d.x + d.dx]);
+  y.domain([d.y,1]).range([d.y ? 20:0, height]);
+
+  rect.transition ()
+    .duration(750)
+    .attr("x", function(d) {return x(d.x); })
+    .attr("y", function(d) {return y(d.y); })
+    .attr("width", function(d) {return x(d.x+d.dx) - x(d.x); })
+    .attr("height", function(d) {return y(d.y + d.dy) - y(d.y); });
+}
+*/
+
+// Redraw chart, based on selected formation
+
+</script>
